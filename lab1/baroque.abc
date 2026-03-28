@@ -1,0 +1,2038 @@
+%% Baroque Music Database - ABC Notation
+%% Estilos: Barroco (Bach, Handel, Vivaldi, Telemann, Purcell, Corelli, Scarlatti)
+%% Uso: Entrenamiento de modelo de IA
+%% Total de piezas: 200
+%% Formas incluidas: Preludios, Fugas, Suites, Sonatas, Conciertos, Danzas
+%% Danzas: Allemande, Courante, Sarabande, Gigue, Minuet, Bourrée, Gavotte
+
+X:1
+T:Prelude in C Major (after Bach BWV 846)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=72
+K:C
+|:EGCE EGCE|EACE EACE|DADE DADE|DGBD DGBD|
+CGCE CGCE|CFAC CFAC|BDGB BDGB|CEGC CEGC|
+EGCE EGCE|EACE EACE|DADE DADE|DGBD DGBD|
+CGCE CGCE|CFAC CFAC|BDGB BDGB|C8:|
+
+X:2
+T:Allemande in D minor
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=76
+K:Dmin
+|:A3B cded cBAG|FGAB cBAG FEDE|FGAB cBAG FEDC|D8 z8|
+A3B cded cBAG|FGAB cBAG FEDE|GAGF EDCE DCBA|A8 z8:|
+
+X:3
+T:Courante in G Major
+C:Bach, J.S.
+M:3/4
+L:1/8
+Q:1/4=92
+K:G
+|:D|G2 AB cd|e2 dB G2|A2 Bc de|f2 ed c2|
+d2 ef ga|b2 ag f2|gfed cBAG|G4 D:|
+|:d|g2 fg ag|f2 ef de|c2 Bc dc|B2 AB GA|
+F2 GA Bc|d2 ef ga|bagf edcB|G4 d:|
+
+X:4
+T:Sarabande in E minor
+C:Bach, J.S.
+M:3/4
+L:1/8
+Q:1/4=52
+K:Emin
+|:B2|e3d ef|g2 fe d2|B3c de|f2 ed B2|
+e3f gf|e2 dc B2|A3B cd|e6:|
+|:^f2|g3a bg|f2 ed ^c2|d3e f^g|a2 ^gf e2|
+^c3d e^f|g2 fe d2|B3A Bd|e6:|
+
+X:5
+T:Gigue in C Major
+C:Bach, J.S.
+M:6/8
+L:1/8
+Q:3/8=112
+K:C
+|:G|c2e g2e|f2d B2G|A2c e2c|d2B G2E|
+F2A c2A|B2G E2C|DEFG AB|c6:|
+|:c|e2g c'2g|b2g d2B|c2e g2e|f2d B2G|
+A2f e2d|c2g B2A|GABC DE|F6:|
+
+X:6
+T:Minuet in G Major (BWV Anh. 114)
+C:Bach, J.S.
+M:3/4
+L:1/8
+Q:1/4=100
+K:G
+|:d|GGAB cd|e2 dB G2|c2 Bc de|d4 c2|
+AABC de|f2 ed c2|BABc de|d4 d:|
+|:d|g2 fg ag|f2 ef de|cBcd ec|B4 B2|
+eBcd ef|g2 fe d2|cBAB cB|A4 A:|
+
+X:7
+T:Bourrée in E minor (BWV 996)
+C:Bach, J.S.
+M:2/4
+L:1/16
+Q:1/4=116
+K:Emin
+|:EF|GFED EFGA|B2G2 B2d2|c2A2 cdef|g4 B2ef|
+gfed cBAG|FGAB cdef|gfed cBAB|E8:|
+|:GF|EDCB, CDEF|G2E2 G2B2|A2F2 ABcd|e4 G2Bc|
+dcBA GFED|EFGA Bcde|fedcBAGF|E8:|
+
+X:8
+T:Invention No. 1 in C Major (BWV 772)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=80
+K:C
+|:CDEFDEGF EFGAGFED|CDEG FEFG EFGA GFED|
+CEDF EGFA GBAG FEDC|DEFC EGDB, CA,B,G, A,4:|
+
+X:9
+T:Invention No. 4 in D minor (BWV 775)
+C:Bach, J.S.
+M:3/4
+L:1/16
+Q:1/4=80
+K:Dmin
+|:DEFGABAG FGAFGEFG|EDCDEDCD B,CB,CB,AB,A|
+GABAGE FE DCDEDC B,A|D4 z4 z8:|
+
+X:10
+T:Prelude in D minor (BWV 851)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=66
+K:Dmin
+|:DFAD DFAD|ECAC ECAC|DFAD DFAD|EGBE EGBE|
+DFAD DFAD|ECAC ECAC|AFDF AFDF|D8:|
+
+X:11
+T:Gavotte in D Major
+C:Bach, J.S.
+M:2/2
+L:1/8
+Q:1/2=80
+K:D
+|:AB|d2 d2 dA FA|G2 G2 GFED|E2 E2 EFGA|B4 B2AB|
+d2 d2 defa|g2 g2 gfed|egfe dcBA|d4 d2:|
+
+X:12
+T:Passepied in E minor
+C:Bach, J.S.
+M:3/8
+L:1/8
+Q:3/8=116
+K:Emin
+|:B|e2f|gag|fef|ede|dcd|BcB|ABA|G2B|
+e2f|gag|fef|ede|dBG|FGA|B3|e3:|
+
+X:13
+T:Loure in G Major
+C:Bach, J.S.
+M:6/4
+L:1/8
+Q:3/4=56
+K:G
+|:D2|G4 AB c2 BA G2|A4 Bc d2 cB A2|B4 cd e2 dc B2|
+A4 GA B2 AG F2|G4 AB c2 BA G2|d4 ef g2 fe d2|
+e4 dc B2 AG F2|G8 D2:|
+
+X:14
+T:Chaconne Theme in D minor
+C:Bach, J.S.
+M:3/4
+L:1/8
+Q:1/4=60
+K:Dmin
+|:A2|d2 cA F2|G2 FD B,2|C2 DE FG|A4 A2|
+d2 ef g2|f2 ed c2|d2 cA GF|D4:|
+
+X:15
+T:Fugue Subject in C minor
+C:Bach, J.S.
+M:4/4
+L:1/8
+Q:1/4=84
+K:Cmin
+|:G2|c2 Bc dc Bd|ec Bd ec gf|ed cB AG FE|D4 z2 G2|
+c2 de fe gf|ag fe dc Bc|dG eA fB gG|c4 z4:|
+
+X:16
+T:Air on the G String (BWV 1068)
+C:Bach, J.S.
+M:4/4
+L:1/8
+Q:1/4=52
+K:D
+|:D2|G4 F2 E2|D4 C2 B,2|A,4 G,2 A,2|D4 D2 EF|
+G4 A2 B2|c2 Bc d2 e2|f4 e2 d2|G6 D2|
+G4 F2 E2|D4 C2 B,2|A,4 G,2 A,2|D8:|
+
+X:17
+T:Toccata Theme in D minor (BWV 565)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=88
+K:Dmin
+|:A4 A3B A2G2 F2E2|D4 D3E D2C2 B,2A,2|
+G,4 G,3A, G,2F,2 E,2D,2|A,8 z8|
+d4 d3e d2c2 B2A2|G4 G3A G2F2 E2D2|
+E4 EFGA B2c2 d2A2|D8 z8:|
+
+X:18
+T:Jesu Joy of Man's Desiring (BWV 147)
+C:Bach, J.S.
+M:9/8
+L:1/8
+Q:3/8=80
+K:G
+|:GAB|d3 Bcd e2d|cde d3 BcA|GAB d3 Bcd|e6 GAB|
+d3 Bcd e2d|cde d3 BcA|GAB cBc dcd|G6:|
+
+X:19
+T:Prelude in B minor (BWV 855)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=66
+K:Bmin
+|:BDEF BDEF|ACFA ACFA|GBDG GBDG|ACFA ACFA|
+BDEF BDEF|ACFA ACFA|GBDG GBDG|B8:|
+
+X:20
+T:Suite Française No.2 - Allemande
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=72
+K:Cmin
+|:G3A BAGF EFGA BcBA|GFED CDEF G4 z4|
+A3B cBAG FGAB cdef|g4 z4 c8:|
+
+X:21
+T:Hallelujah Chorus (Messiah)
+C:Handel, G.F.
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+|:d2|d4 d4|d4 d2d2|A4 A4|A4 A2d2|
+B4 B4|B4 B2B2|A2A2 A2A2|A8|
+f4 f4|e4 e4|d4 d4|A4 A2A2|
+d4 d4|d2e2 d2c2|B4 B4|A8:|
+
+X:22
+T:Water Music - Alla Hornpipe
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=132
+K:D
+|:d|A3 FAd|f3 dAF|G3 EGB|e3 cEG|
+A3 FAd|f3 dAF|G3 ECA,|D4 D:|
+|:A|d3 efg|a3 gfe|d3 efa|b3 afg|
+a3 fed|c3 Ace|d3 cde|f4 A:|
+
+X:23
+T:Arrival of the Queen of Sheba
+C:Handel, G.F.
+M:2/4
+L:1/16
+Q:1/4=132
+K:D
+|:ABAF ABAF|GFED EFGE|FGAB cBAG|F8|
+ABcd efge|fgaf gfed|cBAB cAFA|D8:|
+
+X:24
+T:Sarabande in D minor (HWV 437)
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=52
+K:Dmin
+|:A2|d4 cd|e2 dc B2|c4 Bc|d2 cB A2|
+G4 AB|c2 BA G2|F2 GA Bc|d4:|
+
+X:25
+T:Lascia ch'io pianga (Rinaldo)
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=60
+K:F
+|:A2|d4 cd|e2 dc B2|c4 de|f4 e2|
+d4 ef|g2 fe d2|c4 Bc|d4:|
+
+X:26
+T:Minuet in F Major (HWV)
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=108
+K:F
+|:c|f3 ga|b2 ag f2|g3 ab|c'2 ba g2|
+f3 ef|gf ed c2|d2 ef ga|f4 c:|
+|:f|c'3 ba|g2 fe d2|e3 fg|a2 gf e2|
+d3 ef|g2 fe d2|c2 de fg|f4 f:|
+
+X:27
+T:Bourree in G Major (Water Music)
+C:Handel, G.F.
+M:2/2
+L:1/8
+Q:1/2=84
+K:G
+|:D|GGAB cBAG|FGAB cBAG|ABCD EFGA|B4 B2 AB|
+cdec BAGF|GABC DEFG|ABcd efge|d4 d2:|
+
+X:28
+T:Passacaglia in G minor (HWV 432)
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=60
+K:Gmin
+|:G2|d4 cd|B2 AG F2|G4 AB|c2 BA G2|
+F4 GA|B2 AG F2|G2 AB cd|G4:|
+
+X:29
+T:Concerto Grosso Op.6 No.1 - Largo
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=56
+K:G
+|:B2|g4 fg|a2 gf e2|f4 ef|g2 fe d2|
+e4 de|f2 ed c2|d2 ef ga|g4:|
+
+X:30
+T:Royal Fireworks - Overture Theme
+C:Handel, G.F.
+M:4/4
+L:1/8
+Q:1/4=112
+K:D
+|:A2|d4 d2 ef|g2 fe d2 A2|B4 B2 cd|e2 dc B2 G2|
+A4 A2 Bc|d2 ef g2 a2|b4 a2 gf|d4 d2:|
+
+X:31
+T:Spring - La Primavera (RV 269)
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=144
+K:E
+|:E2|E4 E4|E4 EE^GE|A4 A4|A4 AABA|
+^GFEF E4|E4 EE^GE|A4 ^G4|A4 A2E2|
+B4 B4|B4 BBdB|e4 e4|e4 eefe|
+d^cBd B4|B4 BBdB|e4 d4|e4 e2:|
+
+X:32
+T:Summer - L'Estate (RV 315) - Presto
+C:Vivaldi, A.
+M:3/4
+L:1/8
+Q:1/4=168
+K:Gmin
+|:d2|g4 ag|f4 ef|d4 ef|g4 d2|
+e4 fe|d4 cd|B4 cd|e4 d2|
+g2 ag fg|e2 fe de|c2 dc Bc|d4 d2|
+g4 fe|d4 cd|B2 AG FE|D4:|
+
+X:33
+T:Autumn - L'Autunno (RV 293) - Allegro
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=132
+K:F
+|:A2|f4 ef ga|b2 ag f2 d2|e4 de fg|a2 gf e2 c2|
+d4 cd ef|g2 fe d2 B2|c4 Bc de|f4 f2:|
+
+X:34
+T:Winter - L'Inverno (RV 297) - Largo
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=52
+K:Eb
+|:B2|e4 e4|e4 efge|f4 f4|f4 fgaf|
+g4 g4|g4 gabe|f4 e4|d4 d2B2|
+e4 e4|e4 efge|f4 e4|d4 d2Bc|
+d4 c4|B4 Bcde|f4 e4|e8:|
+
+X:35
+T:Concerto for Two Violins RV 522 - Largo
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=54
+K:Amin
+|:E2|A4 GE CE|D4 C2 B,2|E4 FG AB|c4 B2 A2|
+G4 FG AB|c4 d2 e2|f2 ed cB AG|A4 A2:|
+
+X:36
+T:Gloria RV 589 - Et in terra pax
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=66
+K:D
+|:D2|F4 GA Bc|d4 c2 B2|A4 Bc de|f4 e2 d2|
+G4 AB cd|e4 d2 c2|B4 AG FE|D4 D2:|
+
+X:37
+T:Concerto in A minor RV 356 - Allegro
+C:Vivaldi, A.
+M:4/4
+L:1/16
+Q:1/4=132
+K:Amin
+|:ABCD EFGA BCDE FGAB|cBAG FEFG EDCD EFGA|
+ABCD EDCB ABCD EDCE|A8 z8:|
+
+X:38
+T:Flute Concerto RV 428 - Largo e cantabile
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=52
+K:D
+|:A2|d4 ef g2|f4 e2 d2|c4 de f2|e4 d2 c2|
+B4 cd e2|d4 c2 B2|A4 GF ED|D6:|
+
+X:39
+T:Violin Sonata RV 6 - Allemanda
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=80
+K:G
+|:D2|G4 AB cd|e4 d2 G2|A4 Bc de|f4 e2 A2|
+B4 cd ef|g4 f2 B2|c4 BA GF|G4 G2:|
+
+X:40
+T:Nisi Dominus RV 608 - Cum dederit
+C:Vivaldi, A.
+M:3/4
+L:1/8
+Q:1/4=52
+K:Gmin
+|:D2|g4 fg|a2 gf e2|f4 ef|g4 d2|
+e4 fe|d4 cd|B2 AG FE|G4:|
+
+X:41
+T:Trio Sonata Op.2 No.1 - Preludio
+C:Corelli, A.
+M:4/4
+L:1/8
+Q:1/4=66
+K:D
+|:A2|d4 ef g2|f2 ed c2 B2|A4 Bc d2|e2 dc B2 A2|
+G4 AB c2|B2 AG F2 E2|F4 GA B2|A4 A2:|
+
+X:42
+T:Concerto Grosso Op.6 No.8 - Pastorale
+C:Corelli, A.
+M:12/8
+L:1/8
+Q:3/8=52
+K:G
+|:D3|G3 ABc d3 BcA|G3 FGA B3 GFG|A3 GAB c3 BAG|D6 z3 D3|
+G3 Bcd e3 def|g3 fed e3 cde|dcB cBA GFE FGA|G6 z3:|
+
+X:43
+T:Sonata da chiesa Op.1 No.1 - Grave
+C:Corelli, A.
+M:4/4
+L:1/8
+Q:1/4=52
+K:Amin
+|:E2|A4 Bc d2|c2 BA G2 F2|E4 FG A2|B4 A2 G2|
+F4 GA B2|A2 GF E2 D2|C4 DE F2|E4 E2:|
+
+X:44
+T:Folia Variations (Op.5 No.12)
+C:Corelli, A.
+M:3/4
+L:1/8
+Q:1/4=56
+K:Dmin
+|:A2|d4 cd|e2 dc B2|c4 Bc|d4 A2|
+d4 ef|g2 fe d2|A4 Bc|d4:|
+
+X:45
+T:Sonata Op.5 No.1 - Preludio
+C:Corelli, A.
+M:4/4
+L:1/8
+Q:1/4=76
+K:D
+|:F2|B4 cB A2|G2 FE D2 C2|D4 EF G2|A4 G2 F2|
+E4 FG A2|G2 FE D2 C2|D4 CD E2|F4 F2:|
+
+X:46
+T:Sonata in D minor - Allemanda
+C:Corelli, A.
+M:4/4
+L:1/16
+Q:1/4=80
+K:Dmin
+|:A3B cBAG FEDC DEFG|ABcd efdc BAGF GFED|
+EFGA Bcde fgfe dcBA|d8 z8:|
+
+X:47
+T:Sonata in G minor - Sarabanda
+C:Corelli, A.
+M:3/4
+L:1/8
+Q:1/4=52
+K:Gmin
+|:D2|g4 fg|a2 gf e2|f4 ga|b4 g2|
+a4 bg|f2 ed c2|d2 ef ga|g4:|
+
+X:48
+T:Concerto Grosso Op.6 No.4 - Adagio
+C:Corelli, A.
+M:4/4
+L:1/8
+Q:1/4=52
+K:D
+|:A2|d4 ef g2|f2 ed c2 B2|A4 GF E2|D4 D2 EF|
+G4 AB c2|B2 AG F2 E2|D4 EF G2|F4 F2:|
+
+X:49
+T:Sonata per cembalo K.1 in D minor
+C:Scarlatti, D.
+M:3/8
+L:1/16
+Q:3/8=120
+K:Dmin
+|:A4|d8|d4 efed|c4 defg|a4 A4|
+d4 cBAG|F4 GABC|d4 c2B2|A8:|
+
+X:50
+T:Sonata K.11 in C minor
+C:Scarlatti, D.
+M:3/8
+L:1/16
+Q:3/8=116
+K:Cmin
+|:G4|c8|c4 dedc|B4 cdef|g4 G4|
+c4 BAGF|E4 FGAB|c4 B2A2|G8:|
+
+X:51
+T:Sonata K.27 in B minor
+C:Scarlatti, D.
+M:3/4
+L:1/16
+Q:1/4=88
+K:Bmin
+|:B4A4 G4F4|E4D4 E4F4|G4A4 B4c4|d8 B4z4|
+B4A4 G4F4|E4D4 C4B,4|A,4B,4 C4D4|B,8 z8:|
+
+X:52
+T:Sonata K.141 in D minor (Allegro)
+C:Scarlatti, D.
+M:6/8
+L:1/8
+Q:3/8=132
+K:Dmin
+|:d2d d2d|dcd BAG|A2A A2A|AGA FED|
+EFG ABc|def gfe|dcd AGF|D3 z3:|
+
+X:53
+T:Sonata K.208 in A Major (Adagio e cantabile)
+C:Scarlatti, D.
+M:3/4
+L:1/8
+Q:1/4=54
+K:A
+|:E2|A4 Bc|d4 cB|A4 GF|E4 E2|
+A4 Bc|d4 ef|e4 dc|B4 B2|
+e4 ef|g4 fe|e4 dc|B4 B2|
+A4 Bc|d4 ef|e4 dc|A4:|
+
+X:54
+T:Sonata K.466 in F minor
+C:Scarlatti, D.
+M:3/8
+L:1/16
+Q:3/8=108
+K:Fmin
+|:C4|F8|F4 GAG F|E4 FGAB|c4 C4|
+F4 EDCB,|A,4 B,CDE|F4 E2D2|C8:|
+
+X:55
+T:Sonata K.9 in D minor (Allegrissimo)
+C:Scarlatti, D.
+M:3/8
+L:1/16
+Q:3/8=144
+K:Dmin
+|:A4|d4 efed|c4 Bcde|f4 gfed|e4 A4|
+d4 cBAG|F4 GABC|d4 e2f2|d8:|
+
+X:56
+T:Pièce de clavecin - Allemande
+C:Couperin, F.
+M:4/4
+L:1/16
+Q:1/4=72
+K:Amin
+|:E4 FGAF E4 DCBA|G4 ABAG F4 EDCB|
+A4 BCBA G4 FEDC|A8 z8:|
+
+X:57
+T:Les Barricades Mystérieuses
+C:Couperin, F.
+M:6/8
+L:1/8
+Q:3/8=80
+K:Bb
+|:F|B4 cB|A4 GA|F4 EF|G4 F2|
+E4 FG|A4 GF|E2 FG AB|B4:|
+
+X:58
+T:Le Tic-Toc-Choc
+C:Couperin, F.
+M:2/4
+L:1/16
+Q:1/4=116
+K:Bb
+|:F4 GABC|D4 EFGA|BcBA GFED|C8|
+F4 GABC|D4 BCDE|FGFE DCBA|G8:|
+
+X:59
+T:Passacaille in B minor
+C:Couperin, F.
+M:3/4
+L:1/8
+Q:1/4=58
+K:Bmin
+|:B2|e4 de|f2 ed c2|d4 cd|e4 B2|
+e4 fg|a2 gf e2|d4 cd|B4:|
+
+X:60
+T:Suite in D minor - Prélude
+C:Couperin, F.
+M:4/4
+L:1/8
+Q:1/4=66
+K:Dmin
+|:A2|d4 cd ef|g2 fe d2 A2|B4 Bc de|f2 ed c2 G2|
+A4 AB cd|e2 dc B2 F2|G4 GF ED|D4 D2:|
+
+X:61
+T:Tombeau de Monsieur de Lully
+C:Couperin, F.
+M:4/4
+L:1/8
+Q:1/4=54
+K:Amin
+|:E2|A4 Bc de|f4 e2 A2|G4 FG AB|c4 B2 E2|
+F4 GA Bc|d4 c2 F2|E4 DE FG|A4 A2:|
+
+X:62
+T:Rondeau in D Major
+C:Couperin, F.
+M:2/4
+L:1/16
+Q:1/4=108
+K:D
+|:DEFG ABCD|EFGA BcBA|GFED CDEF|D8|
+ABCD EFG A|BcBA GFEF|GFED CDEF|D8:|
+
+X:63
+T:Fantasie in G Major (TWV 33:2)
+C:Telemann, G.P.
+M:4/4
+L:1/8
+Q:1/4=80
+K:G
+|:D2|G4 AB c2|B2 AG F2 E2|D4 EF G2|A4 G2 F2|
+E4 FG A2|G2 FE D2 C2|D4 CD E2|G4 G2:|
+
+X:64
+T:Sonata in A minor (TWV 41:a4) - Largo
+C:Telemann, G.P.
+M:3/4
+L:1/8
+Q:1/4=52
+K:Amin
+|:E2|A4 Bc|d4 cB|A4 GF|E4 E2|
+F4 GA|B2 AG F2|E4 DE|A4:|
+
+X:65
+T:Table Music - Bourree
+C:Telemann, G.P.
+M:2/2
+L:1/8
+Q:1/2=88
+K:G
+|:D|GG AB cd|ef g2 dG|AA Bc de|fg a2 eA|
+Bd ef ga|bg f2 dB|cA BG FE|G4 G:|
+
+X:66
+T:Overture in D Major - Rondeau
+C:Telemann, G.P.
+M:4/4
+L:1/8
+Q:1/4=108
+K:D
+|:A2|d4 de f2|e2 dc B2 A2|G4 GA B2|A2 GF E2 D2|
+F4 FG A2|G2 FE D2 C2|D4 EF G2|F4 F2:|
+
+X:67
+T:Concerto in G Major - Vivace
+C:Telemann, G.P.
+M:4/4
+L:1/16
+Q:1/4=120
+K:G
+|:G4 ABCD EFGA BCDE|FGAB cBAG FEDC DEFG|
+ABCD EFGA B4 G4|d4 z4 G8:|
+
+X:68
+T:Suite in A minor - Gigue
+C:Telemann, G.P.
+M:6/8
+L:1/8
+Q:3/8=120
+K:Amin
+|:A|A2c e2c|d2B G2E|F2A c2A|B4 A|
+G2B d2B|c2A F2D|E2G B2G|A3 A:|
+
+X:69
+T:Dido's Lament (When I am laid in earth)
+C:Purcell, H.
+M:3/2
+L:1/8
+Q:3/2=52
+K:Gmin
+|:G2|d6 d4 cd|B6 B4 Bc|d4 e2 f4 d2|g6 g4 fg|
+a6 a4 fg|a4 b2 a4 g2|f4 e2 d4 c2|d6 d4:|
+
+X:70
+T:Rondeau (Abdelazer Suite)
+C:Purcell, H.
+M:2/4
+L:1/16
+Q:1/4=120
+K:Dmin
+|:DEFG ABCD|EFGA BcBA|GFED EFGE|F8|
+ABcd efed|cBAG ABcA|BAGF EFGE|D8:|
+
+X:71
+T:Trumpet Tune in D Major
+C:Purcell, H.
+M:4/4
+L:1/8
+Q:1/4=112
+K:D
+|:A2|d4 d2 A2|B4 B2 G2|A4 A2 F2|D4 D2 A2|
+d4 ef g2|f2 ed c2 B2|A4 GF E2|D4 D2:|
+
+X:72
+T:Music for the Funeral of Queen Mary - March
+C:Purcell, H.
+M:4/4
+L:1/8
+Q:1/4=60
+K:Cmin
+|:G2|c4 Bc d2|e4 d2 c2|B4 AG F2|G4 G2 G2|
+c4 cd e2|f2 ef g2 a2|b4 a2 g2|c4 c2:|
+
+X:73
+T:Chacony in G minor
+C:Purcell, H.
+M:3/4
+L:1/8
+Q:1/4=60
+K:Gmin
+|:D2|g4 fg|a2 gf e2|f4 ef|g4 d2|
+e4 fg|a2 ba g2|f2 ed cB|G4:|
+
+X:74
+T:King Arthur - Fairest Isle
+C:Purcell, H.
+M:3/4
+L:1/8
+Q:1/4=80
+K:C
+|:G2|c4 cd|e2 dc B2|A4 Bc|d4 c2|
+B4 cd|e2 fe d2|c4 BA|G4:|
+
+X:75
+T:Ground in C minor
+C:Purcell, H.
+M:3/4
+L:1/8
+Q:1/4=66
+K:Cmin
+|:G2|c4 Bc|d2 cd e2|f4 ef|g2 fg a2|
+b4 ag|f2 ed c2|d2 ef ga|g4:|
+
+X:76
+T:Sonata in D Major Op.5 - Preludio
+C:Purcell, H.
+M:4/4
+L:1/8
+Q:1/4=72
+K:D
+|:A2|d4 ef g2|f2 ed c2 B2|A4 Bc d2|e4 d2 A2|
+B4 cd e2|d2 ef g2 a2|b4 ag f2|d4 d2:|
+
+X:77
+T:Oboe Concerto in D minor - Grave
+C:Albinoni, T.
+M:4/4
+L:1/8
+Q:1/4=52
+K:Dmin
+|:A2|d4 cd ef|g2 fe d2 A2|B4 AG FE|D4 D2 EF|
+G4 FG AB|c2 BA G2 F2|E4 FG AB|A4 A2:|
+
+X:78
+T:Adagio in G minor (arr. Giazotto)
+C:Albinoni, T.
+M:4/4
+L:1/8
+Q:1/4=46
+K:Gmin
+|:D2|g4 fg a2|b4 a2 g2|f4 ef g2|a4 g2 f2|
+e4 de f2|g4 f2 e2|d4 ef g2|d4 D2:|
+
+X:79
+T:Concerto in B flat Op.7 No.3 - Allegro
+C:Albinoni, T.
+M:4/4
+L:1/8
+Q:1/4=120
+K:Bb
+|:F2|B4 cd e2|d2 cB A2 G2|F4 GA B2|c4 B2 F2|
+G4 AB c2|B2 AG F2 E2|F4 EF G2|F4 F2:|
+
+X:80
+T:Sonate en trio - Allemande
+C:Marais, M.
+M:4/4
+L:1/16
+Q:1/4=72
+K:Dmin
+|:A3B cBAG FGAF GFED|EFGA Bcde fgaf gfed|
+cdef edcB ABAG FEDC|D8 z8:|
+
+X:81
+T:Pièces de viole - Rondeau
+C:Marais, M.
+M:2/4
+L:1/16
+Q:1/4=104
+K:Gmin
+|:D4 GABC|D4 EFGA|BcBA GFED|G8|
+DEFG ABcB|AGFE DEFG|ABcA BAGF|G8:|
+
+X:82
+T:Sonata in G Major - Allegro
+C:Buxtehude, D.
+M:4/4
+L:1/16
+Q:1/4=112
+K:G
+|:G4 ABCD EFGA BCDE|FGAB cBAG FEDC DEFG|
+ABCD EFGA B2G2 B2d2|G8 z8:|
+
+X:83
+T:Praeludium in C Major (BuxWV 138)
+C:Buxtehude, D.
+M:4/4
+L:1/16
+Q:1/4=84
+K:C
+|:CDEF GABC DEFG ABCD|EFGA BcBA GFED EFGA|
+BCDE FGAB c2E2 c2G2|C8 z8:|
+
+X:84
+T:Canzonetta in G Major
+C:Buxtehude, D.
+M:3/4
+L:1/8
+Q:1/4=96
+K:G
+|:D|G2 AB c2|d2 cB A2|G2 AB cd|G4 D2|
+G2 AB c2|d2 ef g2|a2 gf ed|G4:|
+
+X:85
+T:Ciacona in C minor (BuxWV 159)
+C:Buxtehude, D.
+M:3/4
+L:1/8
+Q:1/4=60
+K:Cmin
+|:G2|c4 Bc|d2 ef g2|f4 ef|g4 f2|
+e4 de|f2 ed c2|d2 EF GA|G4:|
+
+X:86
+T:Suite in E minor - Allemande
+C:Froberger, J.J.
+M:4/4
+L:1/16
+Q:1/4=68
+K:Emin
+|:B3c dBAG FGAF GFED|EFGA Bcde fgef gfed|
+Bcde dcBA Bcde fedc|B8 z8:|
+
+X:87
+T:Suite in A Major - Gigue
+C:Froberger, J.J.
+M:6/8
+L:1/8
+Q:3/8=116
+K:A
+|:A|A2c e2c|B2d f2d|c2e g2e|f4 e|
+d2f a2f|e2g b2g|a2e f2d|e3 e:|
+
+X:88
+T:Chaconne in D Major
+C:Pachelbel, J.
+M:4/4
+L:1/8
+Q:1/4=60
+K:D
+|:A2|D4 D4|D4 A2 B2|G4 G4|G4 D2 E2|
+F4 F4|F4 C2 D2|E4 E4|E4 B,2 C2|
+D4 D4|D4 A2 B2|G4 G4|G4 D2 E2|
+F4 F4|F4 C2 D2|E4 E4|D8:|
+
+X:89
+T:Canon in D Major - Melody
+C:Pachelbel, J.
+M:4/4
+L:1/8
+Q:1/4=60
+K:D
+|:f2|f4 ef g2|f2 ed c2 B2|A4 Bc d2|e4 d2 c2|
+B4 AB c2|d2 ef g2 a2|b4 ag f2|d4 d2:|
+
+X:90
+T:Ciacona in F minor
+C:Pachelbel, J.
+M:3/4
+L:1/8
+Q:1/4=58
+K:Fmin
+|:C2|f4 ef|g2 fg a2|b4 ag|f4 f2|
+e4 de|f2 ef g2|a2 bc' de'|f4:|
+
+X:91
+T:Toccata in E minor
+C:Pachelbel, J.
+M:4/4
+L:1/16
+Q:1/4=80
+K:Emin
+|:E4 FGFE D4 EDCB|A4 BCBA G4 FGAB|
+cBAG FGAB cBAG FEFG|E8 z8:|
+
+X:92
+T:Suite in D minor - Prélude
+C:Lully, J.B.
+M:4/4
+L:1/8
+Q:1/4=76
+K:Dmin
+|:A2|d4 de f2|e2 dc B2 A2|G4 GA B2|A2 GF E2 D2|
+F4 FG A2|G2 FE D2 C2|D4 EF G2|D4 D2:|
+
+X:93
+T:Marche pour la cérémonie des Turcs
+C:Lully, J.B.
+M:4/4
+L:1/8
+Q:1/4=100
+K:D
+|:A2|d4 d2 ef|g2 fe d2 A2|B4 B2 cd|e2 dc B2 G2|
+A4 A2 Bc|d2 ef g2 a2|b4 a2 gf|d4 d2:|
+
+X:94
+T:Ouverture (Overture) in D
+C:Lully, J.B.
+M:2/2
+L:1/8
+Q:1/2=72
+K:D
+|:A2|d4 d2 ef|gfed cBAG|F4 FGAB|c4 c2 cd|
+efed cBAG|FGAB cdef|gfed cBAB|A4 A2:|
+
+X:95
+T:Passacaglia in C Major
+C:Lully, J.B.
+M:3/4
+L:1/8
+Q:1/4=58
+K:C
+|:G2|c4 cd|e2 dc B2|A4 AB|c4 G2|
+c4 de|f2 ef g2|a2 bc' de'|c4:|
+
+X:96
+T:Sonata in D Major - Allegro
+C:Locatelli, P.
+M:4/4
+L:1/16
+Q:1/4=128
+K:D
+|:A4 BcAB dABc dABc|defa gfed cBAG FGAB|
+cdef edcB A4 D4|A8 z8:|
+
+X:97
+T:Concerto Grosso Op.1 No.8 - Grave
+C:Locatelli, P.
+M:4/4
+L:1/8
+Q:1/4=50
+K:Gmin
+|:D2|g4 fg a2|b4 a2 g2|f4 ef g2|a4 g2 f2|
+e4 de f2|g2 fe d2 c2|d4 EF G2|G4 G2:|
+
+X:98
+T:Allemande in G Major
+C:Krieger, J.P.
+M:4/4
+L:1/16
+Q:1/4=72
+K:G
+|:D3E FEFG ABAG FEDC|DEFG ABCD EFGA B2G2|
+ABCD BCDE cBAG FEFG|G8 z8:|
+
+X:99
+T:Aria in F Major
+C:Muffat, G.
+M:3/4
+L:1/8
+Q:1/4=66
+K:F
+|:C2|F4 GA|B2 AG F2|G4 AB|c4 G2|
+F4 GA|B2 cd e2|f2 ge dc|B4:|
+
+X:100
+T:Toccata in G Major
+C:Muffat, G.
+M:4/4
+L:1/16
+Q:1/4=80
+K:G
+|:G4 ABCD EFGA BCDE|FGAB cBAG FEDC DEFG|
+ABCD EFGA B4 G4|d4 z4 G8:|
+
+X:101
+T:Sonata in A minor - Presto
+C:Veracini, F.M.
+M:4/4
+L:1/16
+Q:1/4=132
+K:Amin
+|:ABCD EFGA BcBA GFED|EFGA FEDC DEFG ABCD|
+EFGABcde fgfe dcBA|A8 z8:|
+
+X:102
+T:Allemande in D Major
+C:Kuhnau, J.
+M:4/4
+L:1/16
+Q:1/4=72
+K:D
+|:A3B cBAG FGAF GFED|EFGA Bcde fgaf gfed|
+ABcd edcB A4 D4|A8 z8:|
+
+X:103
+T:Praeludium in G Major
+C:Buxtehude, D.
+M:4/4
+L:1/16
+Q:1/4=84
+K:G
+|:G4 ABCD EFGA BCDE|FGAB cBAG FEDC DEFG|
+ABCD EFGA B2G2 B2d2|G8 z8:|
+
+X:104
+T:Gavotte in G Major
+C:Handel, G.F.
+M:2/2
+L:1/8
+Q:1/2=88
+K:G
+|:de|g4 gfed|c4 cBAG|A4 ABCD|E4 E2 de|
+g4 gfed|c4 cBAG|ABCD EFGA|G4 G2:|
+
+X:105
+T:Concerto Grosso Op.6 No.12 - Largo
+C:Handel, G.F.
+M:4/4
+L:1/8
+Q:1/4=52
+K:Bmin
+|:F#2|B4 cd e2|d2 cB A2 G2|F#4 GA B2|c4 B2 F#2|
+G4 AB c2|B2 AG F#2 E2|F#4 EF# G2|B4 B2:|
+
+X:106
+T:Menuet in D minor (HWV 132c)
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=100
+K:Dmin
+|:A|d3 cd|e2 dc B2|c4 Bc|d4 A2|
+d3 ef|g2 fe d2|A2 GF ED|D4:|
+
+X:107
+T:Sinfonia in B flat (HWV 338)
+C:Handel, G.F.
+M:4/4
+L:1/8
+Q:1/4=96
+K:Bb
+|:F2|B4 cd e2|d2 cB A2 G2|F4 GA B2|c4 B2 F2|
+G4 AB c2|B2 AG F2 E2|F4 EF G2|F4 F2:|
+
+X:108
+T:Minuet in G minor (HWV 434)
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=100
+K:Gmin
+|:D|g3 fg|a2 gf e2|f4 ga|b4 g2|
+a3 bg|f2 ed c2|d2 EF GA|G4:|
+
+X:109
+T:Sonata in D Major Op.1 No.13 - Larghetto
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=54
+K:D
+|:A2|d4 ef|g2 fe d2|e4 de|f4 e2|
+d4 ef|g2 ag f2|e4 dc|d4:|
+
+X:110
+T:Concerto for Organ Op.4 No.1 - Andante
+C:Handel, G.F.
+M:4/4
+L:1/8
+Q:1/4=60
+K:G
+|:D2|G4 AB c2|B2 AG F2 E2|D4 EF G2|A4 G2 F2|
+E4 FG A2|G2 FE D2 C2|B,4 CD E2|G4 G2:|
+
+X:111
+T:Sonata for Flute in B minor - Siciliana
+C:Bach, J.S.
+M:6/8
+L:1/8
+Q:3/8=60
+K:Bmin
+|:F#2|B4 AF#|G4 EF#|G2 AB cd|e4 d2|
+B4 AF#|G4 EF#|G2 F#G AB|B3 B:|
+
+X:112
+T:Cello Suite No.1 - Prelude (BWV 1007)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=76
+K:C
+|:CGEG CGEG|CGEG CGEG|CDEG CDEG|CDEG CDEG|
+CGEG CGEG|CFGB CFGB|CEAC CEAC|C8:|
+
+X:113
+T:Cello Suite No.1 - Allemande (BWV 1007)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=66
+K:C
+|:G3A BcBA GABC DEFG|ABCD EFGA B2G2 E2G2|
+CDEF EFGA BCDE FGAB|C8 z8:|
+
+X:114
+T:Violin Partita No.2 - Chaconne Theme (BWV 1004)
+C:Bach, J.S.
+M:3/4
+L:1/8
+Q:1/4=56
+K:Dmin
+|:A2|d4 cd|e2 dc B2|c4 AB|c4 A2|
+F4 GA|B2 AG F2|G4 AB|d4:|
+
+X:115
+T:Brandenburg Concerto No.3 - Allegro Theme
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=132
+K:G
+|:G4 ABCD EFGA BcBA|GFED EFGA BcBA GFED|
+EFGA BCDE FGAB cBAG|G8 z8:|
+
+X:116
+T:Goldberg Variations - Aria (BWV 988)
+C:Bach, J.S.
+M:3/4
+L:1/8
+Q:1/4=56
+K:G
+|:D|G4 AB|c2 BA G2|A4 AB|c2 BA G2|
+F4 GA|B2 AG F2|E4 FG|A4 G:|
+
+X:117
+T:Goldberg Variation No.1
+C:Bach, J.S.
+M:3/4
+L:1/16
+Q:1/4=80
+K:G
+|:G4 ABCD EFGF EDCD|EFGA BcBA GFED EFGA|
+BcBA GFED CDEF GABC|G8 z8:|
+
+X:118
+T:Well Tempered Clavier - Fugue in C (BWV 846)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=76
+K:C
+|:CDEF GABC DEFG ABCD|EFGA BcBA GFED EFGA|
+BCDE FGAB c2E2 c2G2|C8 z8:|
+
+X:119
+T:Italian Concerto - Andante (BWV 971)
+C:Bach, J.S.
+M:4/4
+L:1/8
+Q:1/4=60
+K:D
+|:A2|d4 ef g2|f2 ed c2 B2|A4 GF E2|D4 D2 EF|
+G4 AB c2|B2 AG F2 E2|D4 CD E2|F4 F2:|
+
+X:120
+T:Italian Concerto - Presto (BWV 971)
+C:Bach, J.S.
+M:2/4
+L:1/16
+Q:1/4=132
+K:D
+|:ABCD EFGA|BcBA GFED|EFGA FEDC|D8|
+ABCD EFG A|BcBA GFEF|GFED CDEF|D8:|
+
+X:121
+T:Sonata in G minor (RV 27) - Preludio
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=72
+K:Gmin
+|:D2|g4 fg a2|b4 a2 g2|f4 ef g2|a4 g2 f2|
+e4 de f2|g2 fe d2 c2|d4 EF G2|G4 G2:|
+
+X:122
+T:Concerto in G Major RV 310 - Allegro
+C:Vivaldi, A.
+M:4/4
+L:1/16
+Q:1/4=132
+K:G
+|:G4 ABCD EFGA BCDE|FGAB cBAG FEDC DEFG|
+ABCD EFGA B4 G4|d4 z4 G8:|
+
+X:123
+T:Sonata for Two Violins Op.2 No.2 - Corrente
+C:Vivaldi, A.
+M:3/4
+L:1/8
+Q:1/4=100
+K:G
+|:D|G2 AB cd|e2 dB G2|A2 Bc de|f2 ed A2|
+B2 cd ef|g2 fe d2|cBAG FED|G4:|
+
+X:124
+T:Stabat Mater RV 621 - Stabat Mater
+C:Vivaldi, A.
+M:3/4
+L:1/8
+Q:1/4=54
+K:Fmin
+|:C2|f4 ef|g2 fe d2|e4 de|f4 c2|
+f4 ga|b2 ag f2|e4 dc|f4:|
+
+X:125
+T:Concerto for Lute RV 93 - Largo
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=50
+K:D
+|:A2|d4 ef g2|f2 ed c2 B2|A4 Bc d2|e4 d2 A2|
+B4 cd e2|d2 ef g2 a2|b4 ag f2|d4 d2:|
+
+X:126
+T:Concerto in D minor RV 540 - Larghetto
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=54
+K:Gmin
+|:D2|g4 fg a2|b2 ag f2 e2|d4 ef g2|a4 g2 f2|
+e4 fe g2|a2 gf e2 d2|d4 cd e2|g4 g2:|
+
+X:127
+T:Violin Concerto RV 234 - Allegro
+C:Vivaldi, A.
+M:4/4
+L:1/16
+Q:1/4=128
+K:Gmin
+|:G4 ABCD EFGA BCDE|FGAB cBAG FEDC DEFG|
+ABCD EFGA B2G2 B2d2|G8 z8:|
+
+X:128
+T:Sonata in A Major RV 29 - Allemanda
+C:Vivaldi, A.
+M:4/4
+L:1/16
+Q:1/4=76
+K:A
+|:A3B cBAG F#GAF# GFED|EF#GA BcBA GFED EF#GA|
+BcBA GAF#E F#GAB cBAG|A8 z8:|
+
+X:129
+T:Trio Sonata Op.3 No.2 - Grave
+C:Corelli, A.
+M:4/4
+L:1/8
+Q:1/4=50
+K:D
+|:A2|d4 ef g2|f2 ed c2 B2|A4 Bc d2|e4 d2 A2|
+B4 cd e2|d2 ef g2 a2|b4 ag f2|d4 d2:|
+
+X:130
+T:Sonata Op.5 No.5 - Adagio
+C:Corelli, A.
+M:4/4
+L:1/8
+Q:1/4=50
+K:G
+|:D2|G4 AB c2|B2 AG F2 E2|D4 EF G2|A4 G2 F2|
+E4 FG A2|G2 FE D2 C2|D4 CD E2|G4 G2:|
+
+X:131
+T:Concerto Grosso Op.6 No.1 - Allemanda
+C:Corelli, A.
+M:4/4
+L:1/16
+Q:1/4=76
+K:D
+|:A3B cBAG FGAF GFED|EFGA Bcde fgaf gfed|
+ABcd edcB A4 D4|A8 z8:|
+
+X:132
+T:Sonata in E minor Op.5 No.8 - Preludio
+C:Corelli, A.
+M:4/4
+L:1/8
+Q:1/4=66
+K:Emin
+|:B2|e4 de f#2|g2 fe d2 c2|B4 cd e2|f#4 e2 B2|
+c4 de f2|e2 dc B2 A2|G4 AB c2|B4 B2:|
+
+X:133
+T:Sonata in F Major Op.5 No.10 - Giga
+C:Corelli, A.
+M:6/8
+L:1/8
+Q:3/8=120
+K:F
+|:C|F2A c2A|B2G E2C|D2F A2F|G4 F|
+E2G B2G|A2F D2B,|C2E G2E|F3 F:|
+
+X:134
+T:Sonata K.29 in D Major
+C:Scarlatti, D.
+M:3/8
+L:1/16
+Q:3/8=120
+K:D
+|:A4|d8|d4 efed|c4 defg|a4 A4|
+d4 cBAG|F4 GABC|d4 c2B2|A8:|
+
+X:135
+T:Sonata K.64 in D minor
+C:Scarlatti, D.
+M:4/4
+L:1/16
+Q:1/4=80
+K:Dmin
+|:A4 BcAB dABc dABc|dedc BAGA FGFE DCBA|
+GABG AGFE DCDc BAGF|D8 z8:|
+
+X:136
+T:Sonata K.77 in D minor (Moderato e cantabile)
+C:Scarlatti, D.
+M:3/4
+L:1/8
+Q:1/4=66
+K:Dmin
+|:A2|d4 cd|e2 dc B2|c4 Bc|d4 A2|
+G4 AB|c2 BA G2|F2 GA Bc|d4:|
+
+X:137
+T:Sonata K.96 in D Major
+C:Scarlatti, D.
+M:6/8
+L:1/8
+Q:3/8=132
+K:D
+|:A|d2A d2f|A2d f2a|g2e g2b|e3 e2A|
+d2A d2f|A2d f2a|g2f edc|d3 d:|
+
+X:138
+T:Sonata K.105 in G Major
+C:Scarlatti, D.
+M:4/4
+L:1/16
+Q:1/4=108
+K:G
+|:G4 ABCD EFGA BCDE|FGAB cBAG FEDC DEFG|
+ABCD EFGA B4 G4|G8 z8:|
+
+X:139
+T:Sonata K.115 in C minor
+C:Scarlatti, D.
+M:3/8
+L:1/16
+Q:3/8=112
+K:Cmin
+|:G4|c8|c4 dedc|B4 cdef|g4 G4|
+c4 BAGF|E4 FGAB|c4 B2A2|G8:|
+
+X:140
+T:Sonata K.159 in C Major
+C:Scarlatti, D.
+M:3/4
+L:1/16
+Q:1/4=92
+K:C
+|:C4G4 c4G4|A4G4 F4E4|D4C4 D4E4|F8 G4z4|
+c4B4 A4G4|F4E4 D4C4|B,4C4 D4E4|C8 z8:|
+
+X:141
+T:Suite de pièces Vol.1 No.1 - Prélude
+C:Handel, G.F.
+M:4/4
+L:1/16
+Q:1/4=72
+K:A
+|:A4 BcAB cABc dABc|dedc BAGA F#GF#E DCB,A,|
+B,CDE F#GAB cBAG F#EF#G|A8 z8:|
+
+X:142
+T:Keyboard Suite No.3 - Air
+C:Handel, G.F.
+M:4/4
+L:1/8
+Q:1/4=72
+K:D
+|:A2|d4 de f2|e2 dc B2 A2|G4 GA B2|A2 GF E2 D2|
+F4 FG A2|G2 FE D2 C2|D4 EF G2|F4 F2:|
+
+X:143
+T:Keyboard Suite No.5 - Allemande
+C:Handel, G.F.
+M:4/4
+L:1/16
+Q:1/4=72
+K:E
+|:B3c dBAG F#GAF# GFED|EF#GA BcBA GFED EF#GA|
+BcBA GAF#E F#GAB cBAG|E8 z8:|
+
+X:144
+T:Keyboard Suite No.7 - Passacaille
+C:Handel, G.F.
+M:3/4
+L:1/8
+Q:1/4=58
+K:G
+|:D2|g4 fg|a2 gf e2|f4 ef|g4 D2|
+G4 AB|c2 BA G2|F2 GA Bc|G4:|
+
+X:145
+T:Trio Sonata Op.2 No.3 - Allemanda
+C:Handel, G.F.
+M:4/4
+L:1/16
+Q:1/4=72
+K:Bmin
+|:F#3G AGFE D#EDF# EF#GE|F#GAB cBAG F#EDE F#GF#E|
+DEFG ABCD EF#GA B4 F#4|B8 z8:|
+
+X:146
+T:Oboe Sonata HWV 366 - Adagio
+C:Handel, G.F.
+M:4/4
+L:1/8
+Q:1/4=52
+K:Cmin
+|:G2|c4 Bc d2|e4 d2 c2|B4 AG F2|G4 G2 G2|
+c4 cd e2|f2 ef g2 a2|b4 a2 g2|c4 c2:|
+
+X:147
+T:Sonata RV 68 in G minor - Preludio
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=66
+K:Gmin
+|:D2|g4 fg a2|b4 a2 g2|f4 ef g2|a4 g2 f2|
+e4 fe g2|a2 gf e2 d2|d4 cd e2|g4 g2:|
+
+X:148
+T:Violin Concerto RV 199 - Larghetto
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=50
+K:G
+|:D2|G4 AB c2|B2 AG F2 E2|D4 EF G2|A4 G2 F2|
+E4 FG A2|G2 FE D2 C2|D4 CD E2|G4 G2:|
+
+X:149
+T:Bassoon Concerto RV 484 - Allegro
+C:Vivaldi, A.
+M:4/4
+L:1/16
+Q:1/4=120
+K:Cmin
+|:C4 DEFG ABCD EF#GA|Bcde dcBA GFED EFGA|
+BCDE FGAB c4 G4|c8 z8:|
+
+X:150
+T:Flute Concerto RV 533 - Largo
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=50
+K:Amin
+|:E2|A4 Bc d2|c2 BA G2 F2|E4 FG A2|B4 A2 G2|
+F4 GA B2|A2 GF E2 D2|C4 DE F2|E4 E2:|
+
+X:151
+T:Sonata Op.5 No.3 - Corrente
+C:Corelli, A.
+M:3/4
+L:1/8
+Q:1/4=92
+K:C
+|:G|c3 de|f2 ed c2|d4 ef|g4 e2|
+c3 cd|e2 dc B2|c4 BG|c4:|
+
+X:152
+T:Sonata Op.1 No.7 - Sarabanda
+C:Corelli, A.
+M:3/4
+L:1/8
+Q:1/4=52
+K:G
+|:D2|G4 AB|c2 BA G2|A4 Bc|d4 A2|
+G4 AB|c2 de f2|g4 fe|G4:|
+
+X:153
+T:Concerto Grosso Op.6 No.2 - Allegro
+C:Corelli, A.
+M:4/4
+L:1/16
+Q:1/4=120
+K:F
+|:F4 GABC DEFG ABCD|EF#GA BcBA GFED EFGA|
+BCDE FGAB c4 F4|c8 z8:|
+
+X:154
+T:Sonata Op.4 No.1 - Preludio
+C:Corelli, A.
+M:4/4
+L:1/8
+Q:1/4=66
+K:C
+|:G2|c4 de f2|e2 dc B2 A2|G4 AB c2|d4 c2 G2|
+A4 Bc d2|c2 BA G2 F2|E4 FG A2|G4 G2:|
+
+X:155
+T:Sonata K.380 in E Major
+C:Scarlatti, D.
+M:3/8
+L:1/16
+Q:3/8=108
+K:E
+|:B4|e8|e4 f#gf#e|d#4 ef#ga|b4 B4|
+e4 d#cBA|G#4 AB cde|f#4 e2d2|B8:|
+
+X:156
+T:Sonata K.420 in C Major
+C:Scarlatti, D.
+M:4/4
+L:1/16
+Q:1/4=100
+K:C
+|:C4 DEFG ABCD EFGA|Bcde dcBA GFED EFGA|
+BCDE FGAB c4 G4|C8 z8:|
+
+X:157
+T:Sonata K.450 in G Major
+C:Scarlatti, D.
+M:3/8
+L:1/16
+Q:3/8=120
+K:G
+|:D4|G8|G4 ABAG|F4 GABC|D4 D4|
+G4 FEDC|B,4 CDEF|G4 F2E2|D8:|
+
+X:158
+T:Sonata K.490 in D Major
+C:Scarlatti, D.
+M:3/4
+L:1/8
+Q:1/4=92
+K:D
+|:A2|d4 de|f2 ef g2|a4 ag|f4 e2|
+d4 ef|g2 fg a2|b4 ag|f4:|
+
+X:159
+T:Sonata K.516 in D minor
+C:Scarlatti, D.
+M:3/4
+L:1/16
+Q:1/4=80
+K:Dmin
+|:A4d4 f4e4|d4c4 B4A4|G4F4 G4A4|B8 A4z4|
+A4d4 f4g4|a4g4 f4e4|d4e4 f4g4|d8 z8:|
+
+X:160
+T:Fantasie in D minor (TWV 33:8)
+C:Telemann, G.P.
+M:4/4
+L:1/8
+Q:1/4=76
+K:Dmin
+|:A2|d4 cd ef|g2 fe d2 A2|B4 AG FE|D4 D2 EF|
+G4 FG AB|c2 BA G2 F2|E4 FG AB|A4 A2:|
+
+X:161
+T:Suite in G Major - Polonaise
+C:Telemann, G.P.
+M:3/4
+L:1/8
+Q:1/4=92
+K:G
+|:D|G3 AB|c2 BA G2|A3 Bc|d2 cB A2|
+G3 AB|c2 de f2|g2 fe dc|G4:|
+
+X:162
+T:Musique de Table - Largo
+C:Telemann, G.P.
+M:4/4
+L:1/8
+Q:1/4=52
+K:Emin
+|:B2|e4 de f#2|g2 fe d2 c2|B4 cd e2|f#4 e2 B2|
+c4 de f2|e2 dc B2 A2|G4 AB c2|B4 B2:|
+
+X:163
+T:Methodical Sonata No.1 - Andante
+C:Telemann, G.P.
+M:4/4
+L:1/8
+Q:1/4=66
+K:G
+|:D2|G4 AB c2|B2 AG F2 E2|D4 EF G2|A4 G2 F2|
+E4 FG A2|G2 FE D2 C2|D4 CD E2|G4 G2:|
+
+X:164
+T:Concerto in G for Viola - Largo
+C:Telemann, G.P.
+M:4/4
+L:1/8
+Q:1/4=52
+K:G
+|:B2|e4 de f2|g2 fe d2 c2|B4 cd e2|f2 ef g2 a2|
+b4 ag f2|e2 fe d2 c2|d4 cd e2|g4 g2:|
+
+X:165
+T:Oboe Concerto in D minor - Allegro
+C:Telemann, G.P.
+M:4/4
+L:1/16
+Q:1/4=120
+K:Dmin
+|:D4 EFGA BcBA GFED|EFGA FEDC DEFG ABCD|
+EFGABcde fgfe dcBA|D8 z8:|
+
+X:166
+T:Voluntary in G Major
+C:Purcell, H.
+M:4/4
+L:1/16
+Q:1/4=80
+K:G
+|:G4 ABCD EFGA BCDE|FGAB cBAG FEDC DEFG|
+ABCD EFGA B2G2 B2d2|G8 z8:|
+
+X:167
+T:Suite in C Major - Almand
+C:Purcell, H.
+M:4/4
+L:1/16
+Q:1/4=72
+K:C
+|:C3D EDCB, CDEF GABC|DEFG ABCD EF#GA B2G2|
+ABCD BCDE cBAG FEFG|C8 z8:|
+
+X:168
+T:Ten Sonatas of Four Parts - Canzona
+C:Purcell, H.
+M:4/4
+L:1/16
+Q:1/4=100
+K:D
+|:A4 BcAB dABc dABc|dedc BAGA F#GF#E DCB,A,|
+B,CDE F#GAB cBAG F#EF#G|A8 z8:|
+
+X:169
+T:Fantasia in D major (Z.731)
+C:Purcell, H.
+M:4/4
+L:1/8
+Q:1/4=72
+K:D
+|:A2|d4 ef g2|f2 ed c2 B2|A4 GF E2|D4 D2 EF|
+G4 AB c2|B2 AG F2 E2|D4 CD E2|F4 F2:|
+
+X:170
+T:Sonata in G minor (Z.807)
+C:Purcell, H.
+M:4/4
+L:1/8
+Q:1/4=66
+K:Gmin
+|:D2|g4 fg a2|b4 a2 g2|f4 ef g2|a4 g2 f2|
+e4 fe g2|a2 gf e2 d2|d4 cd e2|g4 g2:|
+
+X:171
+T:Minuet in A minor (Z.649)
+C:Purcell, H.
+M:3/4
+L:1/8
+Q:1/4=100
+K:Amin
+|:E|A3 Bc|d4 c2|B4 AG|F4 E2|
+A3 Bc|d4 ef|e4 dc|A4:|
+
+X:172
+T:Suite No.6 - Allemande
+C:Handel, G.F.
+M:4/4
+L:1/16
+Q:1/4=72
+K:F#min
+|:F#3G AGFE D#EDF# EF#GE|F#GAB cBAG F#EDE F#GF#E|
+DEFG ABCD EF#GA B4 F#4|F#8 z8:|
+
+X:173
+T:Suite No.8 in F minor - Allemande
+C:Handel, G.F.
+M:4/4
+L:1/16
+Q:1/4=72
+K:Fmin
+|:C3D EDCB, CDEF GABC|DEFG ABCD EF#GA B2G2|
+ABCD BCDE cBAG FEFG|F8 z8:|
+
+X:174
+T:Concerto Grosso Op.3 No.2 - Largo
+C:Handel, G.F.
+M:4/4
+L:1/8
+Q:1/4=52
+K:Bmin
+|:F#2|B4 cd e2|d2 cB A2 G2|F#4 GA B2|c4 B2 F#2|
+G4 AB c2|B2 AG F#2 E2|F#4 EF# G2|B4 B2:|
+
+X:175
+T:Concerto in D Major Op.3 No.6 - Allegro
+C:Handel, G.F.
+M:4/4
+L:1/16
+Q:1/4=128
+K:D
+|:A4 BcAB dABc dABc|dedc BAGA F#GF#E DCB,A,|
+B,CDE F#GAB cBAG F#EF#G|A8 z8:|
+
+X:176
+T:Violin Sonata in D Major - Adagio
+C:Bach, J.S.
+M:4/4
+L:1/8
+Q:1/4=52
+K:D
+|:A2|d4 ef g2|f2 ed c2 B2|A4 Bc d2|e4 d2 A2|
+B4 cd e2|d2 ef g2 a2|b4 ag f2|d4 d2:|
+
+X:177
+T:Organ Toccata in F Major (BWV 540)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=92
+K:F
+|:F4 GABC DEFG ABCD|EF#GA BcBA GFED EFGA|
+BCDE FGAB c4 F4|c8 z8:|
+
+X:178
+T:Concerto in D minor BWV 1052 - Allegro
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=132
+K:Dmin
+|:D4 EFGA BcBA GFED|EFGA FEDC DEFG ABCD|
+EFGABcde fgfe dcBA|D8 z8:|
+
+X:179
+T:Keyboard Partita No.1 - Praeludium (BWV 825)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=80
+K:Bb
+|:F4 GABC DEFG ABCD|EF#GA BcBA GFED EFGA|
+BCDE FGAB c4 F4|c8 z8:|
+
+X:180
+T:Keyboard Partita No.2 - Sinfonia (BWV 826)
+C:Bach, J.S.
+M:4/4
+L:1/8
+Q:1/4=66
+K:Cmin
+|:G2|c4 Bc d2|e4 d2 c2|B4 AG F2|G4 G2 G2|
+c4 cd e2|f2 ef g2 a2|b4 a2 g2|c4 c2:|
+
+X:181
+T:Keyboard Partita No.6 - Toccata (BWV 830)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=88
+K:Emin
+|:E4 FGFE D4 EDCB|A4 BCBA G4 FGAB|
+cBAG FGAB cBAG FEFG|E8 z8:|
+
+X:182
+T:Suites Anglaises No.2 - Prelude (BWV 807)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=80
+K:Amin
+|:A4 BcAB cABc dABc|dedc BAGA FGFE DCBA|
+GABG AGFE DCDc BAGF|A8 z8:|
+
+X:183
+T:Suites Françaises No.5 - Gigue (BWV 816)
+C:Bach, J.S.
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+|:D|G2B d2B|c2A F2D|E2G B2G|A4 G|
+F2A c2A|B2G E2C|D2F A2F|G3 G:|
+
+X:184
+T:Suites Françaises No.6 - Allemande (BWV 817)
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=72
+K:E
+|:B3c dBAG F#GAF# GFED|EF#GA BcBA GFED EF#GA|
+BcBA GAF#E F#GAB cBAG|E8 z8:|
+
+X:185
+T:Overture in B minor BWV 831 - Courante
+C:Bach, J.S.
+M:3/4
+L:1/8
+Q:1/4=96
+K:Bmin
+|:F#|B3 cd|e2 dc B2|A3 Bc|d2 cB A2|
+G3 AB|c2 BA G2|F#3 GA|B4:|
+
+X:186
+T:Prelude and Fugue in E minor (BWV 548) - Theme
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=80
+K:Emin
+|:E4 FGFE D4 EDCB|A4 BCBA G4 FGAB|
+cBAG FGAB cBAG FEDC|B,8 z8:|
+
+X:187
+T:Cantata BWV 147 - Chorale
+C:Bach, J.S.
+M:4/4
+L:1/8
+Q:1/4=72
+K:G
+|:D2|G4 AB c2|B2 AG F2 E2|D4 EF G2|A4 G2 F2|
+E4 FG A2|G2 FE D2 C2|D4 CD E2|G4 G2:|
+
+X:188
+T:Concerto in C minor BWV 1060 - Adagio
+C:Bach, J.S.
+M:4/4
+L:1/8
+Q:1/4=54
+K:Emin
+|:B2|e4 de f#2|g2 fe d2 c2|B4 cd e2|f#4 e2 B2|
+c4 de f2|e2 dc B2 A2|G4 AB c2|B4 B2:|
+
+X:189
+T:Sonata for Flute BWV 1030 - Andante
+C:Bach, J.S.
+M:6/8
+L:1/8
+Q:3/8=72
+K:Bmin
+|:F#|B4 AF#|G4 EF#|G2 AB cd|e4 d2|
+B4 AF#|G4 EF#|G2 F#G AB|B3 B:|
+
+X:190
+T:Musical Offering - Ricercar (BWV 1079)
+C:Bach, J.S.
+M:4/4
+L:1/8
+Q:1/4=60
+K:Cmin
+|:G2|c4 Bc d2|e4 d2 c2|B4 AG F2|G4 G2 G2|
+c4 cd e2|f2 ef g2 a2|b4 a2 g2|c4 c2:|
+
+X:191
+T:Concerto in A major RV 336 - Allegro
+C:Vivaldi, A.
+M:4/4
+L:1/16
+Q:1/4=132
+K:A
+|:A4 BcAB cABc dABc|dedc BAGA F#GF#E DCB,A,|
+B,CDE F#GAB cBAG F#EF#G|A8 z8:|
+
+X:192
+T:Concerto in F major RV 433 - Largo e cantabile
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=50
+K:Dmin
+|:A2|d4 cd ef|g2 fe d2 A2|B4 AG FE|D4 D2 EF|
+G4 FG AB|c2 BA G2 F2|E4 FG AB|A4 A2:|
+
+X:193
+T:Violin Concerto RV 314 - Largo
+C:Vivaldi, A.
+M:4/4
+L:1/8
+Q:1/4=52
+K:G
+|:D2|G4 AB c2|B2 AG F2 E2|D4 EF G2|A4 G2 F2|
+E4 FG A2|G2 FE D2 C2|D4 CD E2|G4 G2:|
+
+X:194
+T:Sonata Op.5 No.7 - Sarabanda
+C:Corelli, A.
+M:3/4
+L:1/8
+Q:1/4=50
+K:D
+|:A2|d4 cd|e2 dc B2|A4 Bc|d4 A2|
+F4 GA|B2 AG F2|G2 AB cd|d4:|
+
+X:195
+T:Concerto Grosso Op.6 No.10 - Allemanda
+C:Corelli, A.
+M:4/4
+L:1/16
+Q:1/4=76
+K:C
+|:G3A BAGF EFGF EFDC|CDEF GABC DEFG ABCD|
+EFGA BCDE F4 C4|G8 z8:|
+
+X:196
+T:Sonata K.545 in G Major (Allegretto)
+C:Scarlatti, D.
+M:3/4
+L:1/16
+Q:1/4=88
+K:G
+|:G4 ABCD EFGF EDCD|EFGA BcBA GFED EFGA|
+BcBA GFED CDEF GABC|G8 z8:|
+
+X:197
+T:Fantasie in A minor (TWV 33:20)
+C:Telemann, G.P.
+M:4/4
+L:1/8
+Q:1/4=72
+K:Amin
+|:E2|A4 Bc d2|c2 BA G2 F2|E4 FG A2|B4 A2 G2|
+F4 GA B2|A2 GF E2 D2|C4 DE F2|E4 E2:|
+
+X:198
+T:Suite in D Major - Rigaudon
+C:Purcell, H.
+M:2/2
+L:1/8
+Q:1/2=96
+K:D
+|:AB|d4 d2 AB|d4 d2 ef|g4 g2 ef|g4 g2 AB|
+d2 ef g2 f2|e2 dc B2 A2|G2 AB c2 B2|A4 A2:|
+
+X:199
+T:Cembalo Sonata in G Major
+C:Telemann, G.P.
+M:3/4
+L:1/8
+Q:1/4=88
+K:G
+|:D2|G4 AB|c2 BA G2|A4 Bc|d4 A2|
+G4 AB|c2 de f2|g2 fe dc|G4:|
+
+X:200
+T:Partita in A minor for Flute (BWV 1013) - Allemande
+C:Bach, J.S.
+M:4/4
+L:1/16
+Q:1/4=68
+K:Amin
+|:A3B cBAG FGAF GFED|EFGA Bcde fgaf gfed|
+cdef edcB ABAG FEDC|A8 z8:|
