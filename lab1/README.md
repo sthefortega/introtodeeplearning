@@ -11,3 +11,17 @@ TensorFlow uses a high-level API called [Keras](https://www.tensorflow.org/guide
 ## Part 2: Music Generation with RNNs
 In the second portion of the lab, we will play around with building a Recurrent Neural Network (RNN) for music generation. We will be using a "character RNN" to predict the next character of sheet music in ABC notation. Finally, we will sample from this model to generate a brand new music file that has never been heard before!
 
+**Modifications**: for lab 1, instear of using the irish.abc data, I added my own baroque.abc data to train on classical baroque songs from Bach, Vivaldi, Handel, etc. This file is found in the same folder. 
+
+The data from baroque.abc was generated using Claude, based on ABC notations from:
+
+- **abcnotation.com** —  https://abcnotation.com
+
+- **The Session** —  https://thesession.org
+
+- **Kunst der Fuge** —  https://www.kunstderfuge.com
+
+- **IMSLP / Petrucci Music Library** —  https://imslp.org
+
+- **Ian Hayden's ABC Music Files (GitHub)** —  https://github.com/ian-hayden/abc-music-files
+
